@@ -34,7 +34,7 @@ Here is an example of the data:
 
 ### Correlation Heatmap
 
-![Heatmap](heatmap.png)
+![Heatmap](heatmap1.png)
 
 ## Model and Framework
 
